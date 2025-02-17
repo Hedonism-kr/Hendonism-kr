@@ -50,7 +50,7 @@ A dynamic profile image generator
 
 </div>
 
-[borjag90dev-gmail]: mailto:borjag90dev@gmail.com
+[Hedonism-kr-gmail]: mailto:jebala991@gmail.com
 [borjag90dev-github]: https://github.com/BorjaG90
 [borjag90dev-gitlab]: https://gitlab.com/BorjaG90
 [borjag90dev-linkedin]: https://www.linkedin.com/in/borjag90/
