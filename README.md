@@ -9,27 +9,21 @@
 [![Project](https://img.shields.io/badge/Project-Work-red.svg)][repo-link]
 [![Repository](https://img.shields.io/badge/github-black?logo=github)][repo-link]
 
-A dynamic profile image generator
+신나는 학생
 
 </div>
 <hr />
 
-## Features
+## 소개
 
-* Dynamic background color selector with linear and radial gradients
-
-* Text with or without border
-
-* More than ten different font families
+* 내가 할 수 있는거
    
-## Built with
+## 사용하는 툴
 
 ### Platforms
 [<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width=50 alt="VSCode">][vscode-link]
 
 <div align="center">
-
-## Authors
 
 **Hendonism-kr**
 
@@ -42,4 +36,3 @@ A dynamic profile image generator
 [Hedonism-kr-github]:https://github.com/Hedonism-kr
 [repo-link]: https://github.com/Hedonism-kr/Hendonism-kr/tree/main
 [vscode-link]: https://code.visualstudio.com/
-[Unity-link]: https://unity.com/kr
