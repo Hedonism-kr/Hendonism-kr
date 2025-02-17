@@ -26,7 +26,7 @@ A dynamic profile image generator
 ## Built with
 
 ### Technologies
-[<img src="https://raw.githubusercontent.com/BorjaG90/media/master/img/logos/javascript.jpeg" width=50 alt="Typescript">][javascript-link]
+[<img src="https://raw.githubusercontent.com/Hedonism-kr/media/master/img/logos/Unity.jpeg" width=50 alt="Typescript">][Unity-link]
 
 ### Platforms
 [<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width=50 alt="VSCode">][vscode-link]
@@ -35,23 +35,15 @@ A dynamic profile image generator
 
 ## Authors
 
-**Borja Gete**
+**Hendonism-kr**
 
-[![Mail](https://img.shields.io/badge/borjag90dev@gmail.com-DDDDDD?style=for-the-badge&logo=gmail)][borjag90dev-gmail]
-[![Github](https://img.shields.io/badge/BorjaG90-000000.svg?&style=for-the-badge&logo=github&logoColor=white)][borjag90dev-github]
-[![Gitlab](https://img.shields.io/badge/BorjaG90-purple.svg?&style=for-the-badge&logo=gitlab)][borjag90dev-gitlab]
-[![LinkedIn](https://img.shields.io/badge/borjag90-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][borjag90dev-linkedin]
-
-**Claudia Martínez**
-
-[![Mail](https://img.shields.io/badge/claumartinezh@gmail.com-DDDDDD?style=for-the-badge&logo=gmail)][clau-gmail]
-[![Github](https://img.shields.io/badge/claumartinezh-000000.svg?&style=for-the-badge&logo=github&logoColor=white)][clau-github]
-[![LinkedIn](https://img.shields.io/badge/Claudia_MH-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][clau-linkedin]
+[![Mail](https://img.shields.io/badge/jebala991@gmail.com-DDDDDD?style=for-the-badge&logo=gmail)][Hedonism-kr-gmail]
+[![Github](https://img.shields.io/badge/Hedonism-kr-000000.svg?&style=for-the-badge&logo=github&logoColor=white)][Hedonism-kr-github]
 
 </div>
 
 [Hedonism-kr-gmail]: mailto:jebala991@gmail.com
-[borjag90dev-github]:https://github.com/Hedonism-kr
-[repo-link]: https://github.com/BorjaG90/profile-image-generator
+[Hedonism-kr-github]:https://github.com/Hedonism-kr
+[repo-link]: https://github.com/Hedonism-kr/Hendonism-kr/tree/main
 [vscode-link]: https://code.visualstudio.com/
-[javascript-link]: https://www.javascript.com/
+[Unity-link]: https://unity.com/kr
