@@ -8,7 +8,6 @@
 
 [![Project](https://img.shields.io/badge/Project-Work-red.svg)][repo-link]
 [![Repository](https://img.shields.io/badge/github-black?logo=github)][repo-link]
-[![Language](https://img.shields.io/badge/Javascript-F0DB4F?logo=javascript&logoColor=000)][javascript-link]
 
 A dynamic profile image generator
 
@@ -24,9 +23,6 @@ A dynamic profile image generator
 * More than ten different font families
    
 ## Built with
-
-### Technologies
-[<img src="https://raw.githubusercontent.com/Hedonism-kr/media/master/img/logos/Unity.jpeg" width=50 alt="Typescript">][Unity-link]
 
 ### Platforms
 [<img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width=50 alt="VSCode">][vscode-link]
